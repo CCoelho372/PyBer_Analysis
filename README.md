@@ -4,9 +4,14 @@ The new analysis will show a ride sharing summary by city type for the dates of 
 
 # Results
 
+## City Type Summary
+
+![alt text](https://github.com/CCoelho372/PyBer_Analysis/blob/main/city_type_summary.PNG)
 
 
 *Population increases between city types from rural to suburban to urban. Total rides and fares increase with that population change, in turn requiring more drivers. Average fare per driver and per ride reduce the more populated an area gets. Total fares also increase as an area becomes more populated. This can all be attributed by the supply and demand of rides to the number of drivers.* 
+
+## Multiple Line Chart
 
 ![alt text](https://github.com/CCoelho372/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
@@ -16,7 +21,7 @@ The new analysis will show a ride sharing summary by city type for the dates of 
 
 # Summary
 
-Business Recommendations
+## Business Recommendations
 
 1. Provide discounts on fares at the beginning of the year in all three city types for the month of January to increase number of rides.
 
